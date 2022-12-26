@@ -1,6 +1,6 @@
 # hello-world
 
-Self-study of Python
+Self-taught Python Programme
 
 
 
